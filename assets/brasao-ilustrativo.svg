@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Símbolo ilustrativo com barco, cruz, raios e ondas">
+<rect width="500" height="500" rx="250" fill="#0b0e0c"/>
+<g><path d="M 155.18 234.98 L 50.26 227.52 Q 34.68 215.90 53.09 209.66 Z" fill="#f7d11c"/><path d="M 163.14 209.13 L 64.46 172.69 Q 52.75 157.18 72.16 156.32 Z" fill="#f7d11c"/><path d="M 177.99 186.51 L 93.40 123.99 Q 86.48 105.83 105.36 110.43 Z" fill="#f7d11c"/><path d="M 198.56 168.94 L 134.77 85.31 Q 133.19 65.94 150.04 75.62 Z" fill="#f7d11c"/><path d="M 223.22 157.81 L 185.30 59.70 Q 189.18 40.66 202.66 54.65 Z" fill="#f7d11c"/><path d="M 250.00 154.00 L 240.96 49.20 Q 250.00 32.00 259.04 49.20 Z" fill="#f7d11c"/><path d="M 276.78 157.81 L 297.34 54.65 Q 310.82 40.66 314.70 59.70 Z" fill="#f7d11c"/><path d="M 301.44 168.94 L 349.96 75.62 Q 366.81 65.94 365.23 85.31 Z" fill="#f7d11c"/><path d="M 322.01 186.51 L 394.64 110.43 Q 413.52 105.83 406.60 123.99 Z" fill="#f7d11c"/><path d="M 336.86 209.13 L 427.84 156.32 Q 447.25 157.18 435.54 172.69 Z" fill="#f7d11c"/><path d="M 344.82 234.98 L 446.91 209.66 Q 465.32 215.90 449.74 227.52 Z" fill="#f7d11c"/></g>
+<path d="M81 291 L135 271 L143 246 L197 233 L212 249 L293 247 L368 271 L420 252 Q405 336 344 353 Q191 374 95 330 Z" fill="#e43e32"/>
+<path d="M112 300 Q266 337 394 286" fill="none" stroke="#0b0e0c" stroke-width="12" stroke-linecap="round"/>
+<path d="M245 199V320 M219 226H271" fill="none" stroke="#f7d11c" stroke-width="18" stroke-linecap="square"/>
+<path d="M50 362 Q135 328 215 370 T445 360 M55 394 Q140 364 230 391 T443 391" fill="none" stroke="#f7d11c" stroke-width="17" stroke-linecap="round"/>
+</svg>
