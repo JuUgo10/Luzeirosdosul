@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#0b0e0c">
+  <title>Central de Pontuação | Luzeiros do Sul</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    .score-portal { min-height: calc(100vh - 5px); display: grid; align-content: center; padding-block: 46px; }
+    .score-portal-card { max-width: 650px; border: 1px solid #394038; border-top: 4px solid var(--yellow); background: var(--dark-soft); color: var(--cream); padding: clamp(24px, 6vw, 58px); }
+    .score-portal-card h1 { font-size: clamp(2.65rem, 8vw, 5rem); margin: 14px 0 18px; }
+    .score-portal-card h1 span { color: var(--yellow); }
+    .score-portal-card p { max-width: 46ch; color: #c2c9c0; }
+  </style>
+</head>
+<body>
+  <div class="topline" aria-hidden="true"><span></span><span></span><span></span></div>
+  <main class="container score-portal">
+    <section class="score-portal-card" aria-labelledby="score-portal-title">
+      <a class="text-link" href="./">← Site do Luzeiros do Sul</a>
+      <h1 id="score-portal-title">Central de <span>Pontuação</span></h1>
+      <p>Entre com sua conta do ChatGPT autorizada para acessar o painel do clube.</p>
+      <a class="btn btn-gold" href="https://luzeiros-do-sul-pontuacao.juugo10.chatgpt.site/" rel="noreferrer">Abrir painel privado <span aria-hidden="true">↗</span></a>
+    </section>
+  </main>
+</body>
+</html>
